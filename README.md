@@ -289,6 +289,18 @@ Social-Media-Engagement-&-Performance-Analytics/
 ## 👩‍💻 Author
 
 **Shanthini**
+Aspiring Data Analyst  
+Skills: Python | Pandas | NumPy | Matplotlib | Seaborn | Exploratory Data Analysis | Data Visualization
 
-Social Media Engagement & Performance Analysis Project
+## 📄 License
+
+This project is created for educational and assignment purposes only.
+
+## 🙏 Acknowledgments
+
+I would like to thank:
+
+- **Entri Elevate Course Support** for providing guidance, learning resources, and support throughout this project.
+- **Python Documentation** for valuable references and support in understanding Python, Pandas, NumPy, Matplotlib, and Seaborn.
+- **Google Colab** for providing an interactive environment to practice, execute, and analyze Python code.
 
